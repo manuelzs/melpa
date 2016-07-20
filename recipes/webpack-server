@@ -1,0 +1,4 @@
+(webpack-server
+ :fetcher github
+ :repo "manuelzs/webpack-server.el"
+ :files ("*.el"))
